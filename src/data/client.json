@@ -1,0 +1,7 @@
+{
+    "CLIENT_ID": "RZBB4RK5taGtRgJ0XWch0feRonIa",
+    "CLIENT_SECRET": "HBoeHGfRYKXygDnkAXcUUffbDU0a",
+    "GRANT_TYPE": "password",
+    "GRANT_TYPE_REFRESH_TOKEN": "refresh_token",
+    "HEADER_LOGIN": "Basic UlpCQjRSSzV0YUd0UmdKMFhXY2gwZmVSb25JYTpIQm9lSEdmUllLWHlnRG5rQVhjVVVmZmJEVTBh"
+}

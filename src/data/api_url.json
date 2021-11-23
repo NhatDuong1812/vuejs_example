@@ -1,0 +1,6 @@
+{
+    "LOGIN": "https://identity.kttv.gov.vn:9443/oauth2/token?scope=openid",
+    "REFRESH_TOKEN": "https://identity.kttv.gov.vn:9443/oauth2/token?scope=openid&refresh_token=",
+    "GET_CURRENT_USER": "https://identity.kttv.gov.vn:9443/oauth2/userinfo",
+    "GET_ALL_MENU": "menu-manage/get-all-menu"
+}
